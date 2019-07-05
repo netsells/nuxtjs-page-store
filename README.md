@@ -11,6 +11,8 @@ yarn add @netsells/nuxtjs-page-store
 
 ## Usage
 
+This module is built on top of Vuex for reactivity.
+
 Add to your nuxt config:
 
 ```
