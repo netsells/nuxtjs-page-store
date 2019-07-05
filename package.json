@@ -1,0 +1,12 @@
+{
+  "name": "@netsells/nuxtjs-page-store",
+  "version": "1.0.0",
+  "description": "Store global data for a page which is cleared after changing page",
+  "main": "lib/index.js",
+  "scripts": {},
+  "author": "Sam Boylett <sam.boylett@netsells.co.uk>",
+  "license": "ISC",
+  "peerDependencies": {
+    "nuxt": "^2.8.1"
+  }
+}
